@@ -1,20 +1,49 @@
-# Midnight Security Labs Site 🔥
-> https://midnightsecuritylabs.com/
+# Midnight Security Labs – Website Repository
 
-## Sections 📚
-✔️ About\
-✔️ Interests\
-✔️ Education\
-✔️ Online Certification\
-✔️ Experience\
-✔️ Projects \
-✔️ Skills \
-✔️ Resume\
-✔️ Contact Info
+This repository contains the source code for the Midnight Security Labs public website, hosted via GitHub Pages.
 
-## Tools Used 🛠️
-* <b>GitHub Pages</b> - To host our static website (HTML, CSS, JS).
+The site is a static implementation built to document services, capabilities, and background information related to the Midnight Security Labs project. It is intended as a reference and informational artifact, not a sales or marketing platform.
+
+Live site:  
+https://midnightsecuritylabs.github.io/
+
+## Purpose
+
+This repository exists to:
+
+- Maintain the HTML/CSS/JS source for the Midnight Security Labs website
+- Document the structure and evolution of the site
+- Provide transparency into how the site is built and hosted
+- Serve as a lightweight project showcase and information hub
+
+## Site Structure
+
+The website is organized into the following sections:
+
+- About
+- Specializations
+- Services
+- FAQs
+- Contact Information
+
+Section names and content may evolve as the project matures.
+
+## Technology Stack
+
+The site is implemented using:
+
+- Static HTML
+- CSS (Bootstrap-based template with custom styling)
+- JavaScript for light interactivity
+- GitHub Pages for hosting and deployment
+
+No backend services or frameworks are used.
+
+## Hosting and Deployment
+
+The site is hosted using GitHub Pages and is deployed directly from this repository. Updates to the main branch are reflected on the live site.
 
 ## License
 
-- **[MIT license](http://opensource.org/licenses/mit-license.php)**
+This project is licensed under the MIT License.
+https://opensource.org/licenses/MIT
